@@ -34,7 +34,7 @@ $('#list').on('click','span', function () {
 // why is this is so??
 
 $('#plus').click(function () {
-    $('inp').fadeToggle();
+    $('#inp').fadeToggle();
 })
 
 
